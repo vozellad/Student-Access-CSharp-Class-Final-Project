@@ -1,0 +1,9 @@
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\bin\Release\Students.dll.config
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\bin\Release\Students.dll
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\bin\Release\Students.pdb
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.csproj.AssemblyReference.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.Properties.Resources.resources
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.csproj.GenerateResource.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.csproj.CoreCompileInputs.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.dll
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\Students\obj\Release\Students.pdb

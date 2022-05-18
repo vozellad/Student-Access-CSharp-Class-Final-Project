@@ -1,0 +1,14 @@
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\StudentAccess.exe.config
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\StudentAccess.exe
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\StudentAccess.pdb
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\Students.dll
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\Students.pdb
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\bin\Debug\Students.dll.config
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.csproj.AssemblyReference.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.StudentAccessForm.resources
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.Properties.Resources.resources
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.csproj.GenerateResource.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.csproj.CoreCompileInputs.cache
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.csproj.CopyComplete
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.exe
+C:\Users\User_name\Desktop\C# Final Project-StudentAccess Demetrios Vozella\StudentAccess\obj\Debug\StudentAccess.pdb

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student xsi:type="InternationalStudent">
+    <ID>1</ID>
+    <Major>GeneralStudies</Major>
+    <GPA>0</GPA>
+    <Credits>0</Credits>
+    <FinancialBalance>0</FinancialBalance>
+    <StartReg>2021-12-21T12:49:02.3008587-05:00</StartReg>
+    <EndReg>2021-12-21T12:49:02.3008587-05:00</EndReg>
+    <FullName />
+    <Birthdate>2021-12-21T12:49:02.3008587-05:00</Birthdate>
+    <PhoneNum />
+    <EMail />
+  </Student>
+  <Student xsi:type="VeteranStudent">
+    <ID>11600522</ID>
+    <Major>History</Major>
+    <GPA>2.2</GPA>
+    <Credits>12</Credits>
+    <FinancialBalance>1931</FinancialBalance>
+    <StartReg>2021-09-01T10:59:45</StartReg>
+    <EndReg>2022-08-31T10:59:45</EndReg>
+    <FullName>Guy Joe</FullName>
+    <Birthdate>1990-02-02T10:59:45</Birthdate>
+    <PhoneNum>9046422367</PhoneNum>
+    <EMail>hello@there.com</EMail>
+  </Student>
+  <Student>
+    <ID>22957611</ID>
+    <Major>ComputerScience</Major>
+    <GPA>3.64</GPA>
+    <Credits>43</Credits>
+    <FinancialBalance>23770.23</FinancialBalance>
+    <StartReg>2019-08-28T10:16:36</StartReg>
+    <EndReg>2021-12-22T10:16:36</EndReg>
+    <FullName>Johnson Smithson</FullName>
+    <Birthdate>1998-05-02T10:16:36</Birthdate>
+    <PhoneNum>9052456462</PhoneNum>
+    <EMail>e.mail@e.mail</EMail>
+  </Student>
+  <Student xsi:type="InternationalStudent">
+    <ID>23733591</ID>
+    <Major>Accounting</Major>
+    <GPA>1.2</GPA>
+    <Credits>12</Credits>
+    <FinancialBalance>51152.22</FinancialBalance>
+    <StartReg>2021-09-01T10:52:05</StartReg>
+    <EndReg>2023-12-20T10:52:05</EndReg>
+    <FullName>Hruska Mortensen</FullName>
+    <Birthdate>2003-01-02T10:52:05</Birthdate>
+    <PhoneNum>4578543467</PhoneNum>
+    <EMail>hm@protonmail.com</EMail>
+  </Student>
+  <Student>
+    <ID>34896423</ID>
+    <Major>GeneralStudies</Major>
+    <GPA>3.2</GPA>
+    <Credits>12</Credits>
+    <FinancialBalance>14087.07</FinancialBalance>
+    <StartReg>2021-09-01T10:52:45</StartReg>
+    <EndReg>2024-08-28T10:52:45</EndReg>
+    <FullName>Kevin Rust</FullName>
+    <Birthdate>1997-03-18T10:52:45</Birthdate>
+    <PhoneNum>2352367126</PhoneNum>
+    <EMail>kevin.rust@hotmail.com</EMail>
+  </Student>
+  <Student xsi:type="InternationalStudent">
+    <ID>87436586</ID>
+    <Major>ComputerScience</Major>
+    <GPA>3.96</GPA>
+    <Credits>15</Credits>
+    <FinancialBalance>52276.72</FinancialBalance>
+    <StartReg>2021-09-01T10:44:13</StartReg>
+    <EndReg>2023-08-30T10:44:13</EndReg>
+    <FullName>Sarkis Tsarukyan</FullName>
+    <Birthdate>2002-01-01T10:44:13</Birthdate>
+    <PhoneNum>4139752790</PhoneNum>
+    <EMail>college@student.com</EMail>
+  </Student>
+</ArrayOfStudent>
